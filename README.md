@@ -1,6 +1,8 @@
 # MIxS-ng
 Next generation MIxS -- “Minimum Information about any (X) Sequence” (MIxS) specification
 
+This repo has largely been replaced by https://github.com/GenomicsStandardsConsortium/mixs-rdf, but eventually, all MIxS code will probably live in the main MIxS repo: https://github.com/GenomicsStandardsConsortium/mixs.
+
 # Purpose
 
 Encode the MIxS Information Model in JSON Schema to better support extending the standard and creating specific profiles for specific use cases.
